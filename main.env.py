@@ -1,0 +1,3 @@
+OPENAI_API_KEY=bu_yerga_openai_kalitini_yozing
+WEATHER_API_KEY=bu_yerga_openweather_kalitini_yozing
+
